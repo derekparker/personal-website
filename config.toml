@@ -32,7 +32,7 @@ theme = "hello-friend-ng"
 [languages]
   [languages.en]
     title = "Engineering the Software"
-    subtitle = "Software Engineer and stuff"
+    subtitle = ""
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"

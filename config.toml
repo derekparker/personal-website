@@ -12,7 +12,7 @@ theme = "hello-friend-ng"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "A place for my talks and random musings"
   keywords = "homepage, blog"
   images = [""]
 

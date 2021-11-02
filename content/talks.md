@@ -1,6 +1,7 @@
 
 ## Conference talks
 
+- [Debuggers & eBPF: Bringing Debugging to Production](https://youtu.be/hmUjW-dV_vc)
 - [Deterministic Debugging With Delve](https://ftp.osuosl.org/pub/fosdem/2020/UB2.252A/debuggingwithdelve.webm)
 - [Hands on Debugging With Delve](https://www.youtube.com/watch?v=fBH7hJL4zSU)
 - [Advanced Debugging With Delve](https://www.youtube.com/watch?v=VBiFiguj52I)
